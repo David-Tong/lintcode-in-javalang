@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="2157-print welcome to lintcode/src"/>
+	<classpathentry kind="src" path="2415-looking for missing numbers/src"/>
+	<classpathentry kind="src" path="2422-find the position index of a substring in a string/src"/>
+	<classpathentry kind="src" path="2655-array replacement/src"/>
+	<classpathentry kind="src" path="2675 - date format conversion/src"/>
+	<classpathentry kind="src" path="2684-making a cup of coffee/src"/>
+	<classpathentry kind="src" path="2699-exception capture ii/src"/>
+	<classpathentry kind="src" path="2857-abstract factory pattern/src"/>
+	<classpathentry kind="src" path="2858-the wheels of the car/src"/>
+	<classpathentry kind="src" path="2859-student implement 2 interfaces/src"/>
+	<classpathentry kind="src" path="2860-implementing the interface/src"/>
+	<classpathentry kind="src" path="2861-ride payment prompt - interpreter pattern/src"/>
+	<classpathentry kind="src" path="2864-a week of rest day ii/src"/>
+	<classpathentry kind="src" path="2868-all objects/src"/>
+	<classpathentry kind="src" path="2869-managing books/src"/>
+	<classpathentry kind="src" path="2870-variables of the interface/src"/>
+	<classpathentry kind="src" path="2872-static loaded code block/src"/>
+	<classpathentry kind="src" path="2873-check code i/src"/>
+	<classpathentry kind="src" path="2874-local internal classes/src"/>
+	<classpathentry kind="src" path="2875-program results/src"/>
+	<classpathentry kind="src" path="2878-3 and multiples of 3/src"/>
+	<classpathentry kind="src" path="2881-the largest number/src"/>
+	<classpathentry kind="src" path="2883-a general commodity class/src"/>
+	<classpathentry kind="src" path="2884-a week of rest day/src"/>
+	<classpathentry kind="src" path="2886-sorting a map/src"/>
+	<classpathentry kind="src" path="2887-student set with double sort/src"/>
+	<classpathentry kind="src" path="2894-order by frequency/src"/>
+	<classpathentry kind="src" path="2895-sum of two numbers ii/src"/>
+	<classpathentry kind="src" path="2896-use of generic classes/src"/>
+	<classpathentry kind="src" path="2898-intercepting data using stack/src"/>
+	<classpathentry kind="src" path="2900-linkedlist removal of duplicate elements/src"/>
+	<classpathentry kind="src" path="2901-array copy/src"/>
+	<classpathentry kind="src" path="2902-seating in order on the bus/src"/>
+	<classpathentry kind="src" path="2903-use of generalized arrays/src"/>
+	<classpathentry kind="src" path="2904-use of genric types/src"/>
+	<classpathentry kind="src" path="2905-upper and lower bounds for generic types/src"/>
+	<classpathentry kind="src" path="2906-thread-safe list/src"/>
+	<classpathentry kind="src" path="3240-count the number of letters of each type/src"/>
+	<classpathentry kind="src" path="3242-print “lintcode”/src"/>
+	<classpathentry kind="src" path="3354-application of synchronized - laternate printing/src"/>
+	<classpathentry kind="src" path="3368-sorting string with lambda expression/src"/>
+	<classpathentry kind="output" path="2157-print welcome to lintcode/bin"/>
+</classpath>
